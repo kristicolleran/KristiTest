@@ -1,0 +1,22 @@
+{
+  "name": "Chris Bot",
+  "description": "Chris, bot.",
+  "keywords": ["Chris", "bot", "express"],
+  "website": "http://colleran.net",
+  "repository": "https://github.com/Sciensio/bottest",
+  "logo": "https://github.com/Sciensio/bottest/blob/master/img/robot2.jpg",
+  "env": {
+    "SMOOCH_APP_TOKEN": {
+      "description": "Your Smooch app token which is used to initialize the web widget.",
+      "required": true
+    },
+    "SMOOCH_KEY_ID": {
+      "description": "Your Smooch key ID, used to talk to the Smooch API",
+      "required": true
+    },
+    "SMOOCH_SECRET": {
+      "description": "Your Smooch secret, used to talk to the Smooch API",
+      "required": true
+    }
+  }
+}
