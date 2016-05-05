@@ -1,7 +1,7 @@
 {
-    "HELLO": "Hello!  I'm SEJBOT and can help you plan for the Summit.  To get started just type INFO.",
+    "HELLO": "Hello!  I'm SEJBOT and can help you plan for Summit 2016.  Start by typing INFO.",
     "HI": "Hello!  I'm SEJBOT and can help you plan for Summit 2016.  Start by typing INFO.",
-    "HEY": "Hello, I am the SEJBot.  I can help you plan for SEJ Summit 2016 and provide info once you are onsite.  To discover my skills type INFO.",
+    "HEY": "Hello!  I'm SEJBOT and can help you plan for Summit 2016.  Start by typing INFO.",
     "WHAT CAN YOU DO": "I can help you with: %[Meeting Details](postback:MEETING_DETAILS) %[Getting There](postback:GETTING_THERE) %[Onsite Details](postback:ONSITE_DETAILS)",
     "?": "I can help you with: %[Meeting Details](postback:MEETING_DETAILS) %[Getting There](postback:GETTING_THERE) %[Onsite Details](postback:ONSITE_DETAILS)",
     "INFO": "I can help you with: %[Meeting Details](postback:MEETING_DETAILS) %[Getting There](postback:GETTING_THERE) %[Onsite Details](postback:ONSITE_DETAILS)",
@@ -22,7 +22,7 @@
     "NAVY PIER VISITOR MAP": "Looking for Parking Pay Stations, Restaurants, ATMs, etc.: %[Navy Pier Visitor Map](https://app.box.com/s/pwcnxurzzqfrof3hfcvhwmx4ufx5k1gb)",
     "TEST": "I am sorry I appear to be unable to assist you with this.  Type INFO for a list of what I can help you with.",
     "I LOVE YOU": "Awh, shucks! I love you too!",
-    "RESTART": "Hello, I am the SEJBot.  I can help you with the following during the Summit: \n%[Meeting Details](postback:MEETING_DETAILS) %[Getting There](postback:GETTING_THERE) %[Onsite Details](postback:ONSITE_DETAILS) \n%[WiFi](postback:WIFI) %[Cats](postback:CATS) \nAlso at any time you can use INFO to see your options",
+    "RESTART": "Hello!  I'm SEJBOT and can help you with the following for the Summit: \n%[Meeting Details](postback:MEETING_DETAILS) %[Getting There](postback:GETTING_THERE) %[Onsite Details](postback:ONSITE_DETAILS) \n%[WiFi](postback:WIFI) %[Cats](postback:CATS) \nAlso at any time you can use INFO to see your options",
     "CONNECT ME": "",
     "DISCONNECT": "SEJBot is back."
     
