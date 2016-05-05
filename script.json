@@ -1,7 +1,7 @@
 {
-    "HELLO": "Hello, I am the SEJBot.  I can help you plan for SEJ Summit 2016 and provide info once you are onsite.  To discover my skills type INFO",
-    "HI": "Hello, I am the SEJBot.  I can help you plan for SEJ Summit 2016 and provide info once you are onsite.  To discover my skills type INFO",
-    "HEY": "Hello, I am the SEJBot.  I can help you plan for SEJ Summit 2016 and provide info once you are onsite.  To discover my skills type INFO",
+    "HELLO": "Hello! I'm SEJBOT and am here to help you plan for the SEJ Summit 2016.  I can also provide useful information during the Summit.  To discover what I know type INFO.",
+    "HI": "Hello, I am the SEJBot.  I can help you plan for SEJ Summit 2016 and provide info once you are onsite.  To discover my skills type INFO.",
+    "HEY": "Hello, I am the SEJBot.  I can help you plan for SEJ Summit 2016 and provide info once you are onsite.  To discover my skills type INFO.",
     "WHAT CAN YOU DO": "I can help you with: %[Meeting Details](postback:MEETING_DETAILS) %[Getting There](postback:GETTING_THERE) %[Onsite Details](postback:ONSITE_DETAILS)",
     "?": "I can help you with: %[Meeting Details](postback:MEETING_DETAILS) %[Getting There](postback:GETTING_THERE) %[Onsite Details](postback:ONSITE_DETAILS)",
     "INFO": "I can help you with: %[Meeting Details](postback:MEETING_DETAILS) %[Getting There](postback:GETTING_THERE) %[Onsite Details](postback:ONSITE_DETAILS)",
