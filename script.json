@@ -6,7 +6,7 @@
     "?": "I can help you with: %[Meeting Details](postback:MEETING_DETAILS) %[Getting There](postback:GETTING_THERE) %[Onsite Details](postback:ONSITE_DETAILS)",
     "INFO": "I can help you with: %[Meeting Details](postback:MEETING_DETAILS) %[Getting There](postback:GETTING_THERE) %[Onsite Details](postback:ONSITE_DETAILS)",
     "MENU": "I can help you with: %[Meeting Details](postback:MEETING_DETAILS) %[Getting There](postback:GETTING_THERE) %[Onsite Details](postback:ONSITE_DETAILS)",
-    "MEETING DETAILS": "Meeting details: ![Agenda](https://raw.githubusercontent.com/sciensio/Kristitest/master/img/SEJAgenda.jpg) %[Speakers](https://www.searchenginejournal.com/sejsummit2016/chicago/speakers/) ![Networking](https://raw.githubusercontent.com/sciensio/Kristitest/master/img/SEJNetworking.jpg)",
+    "MEETING DETAILS": "Meeting details: \n![Agenda](https://raw.githubusercontent.com/sciensio/Kristitest/master/img/SEJAgenda.jpg) \n%[Speakers](https://www.searchenginejournal.com/sejsummit2016/chicago/speakers/) \n![Networking](https://raw.githubusercontent.com/sciensio/Kristitest/master/img/SEJNetworking.jpg)",
     "AGENDA": "Our day of learning and networking includes a single track of eight 20 minute sessions and four Q&A panels: ![Agenda](https://raw.githubusercontent.com/sciensio/Kristitest/master/img/SEJAgenda.jpg)",
     "SPEAKERS": "We are pleased to have the following industry experts as speakers: %[Speakers](https://www.searchenginejournal.com/sejsummit2016/chicago/speakers/)",
     "NETWORKING": "The day includes over three hours of high-quality networking opportunities: ![Networking](https://raw.githubusercontent.com/sciensio/Kristitest/master/img/SEJNetworking.jpg)",
