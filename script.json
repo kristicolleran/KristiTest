@@ -25,5 +25,5 @@
     "RESTART": "Hello!  I'm SEJBOT and can help you with the following for the Summit: \n%[Meeting Details](postback:MEETING_DETAILS) %[Getting There](postback:GETTING_THERE) %[Onsite Details](postback:ONSITE_DETAILS) \n%[WiFi](postback:WIFI) \nAlso at any time you can use INFO to see your options",
     "CONNECT ME": "",
     "DISCONNECT": "SEJBot is back."
-    KristiTest/img/navypiervisitormap.jpg
+    
 }
