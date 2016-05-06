@@ -1,7 +1,7 @@
 {
-    "HELLO": "Hello!  I'm SEJBOT and can help you plan for Summit 2016.  Start by typing MENU for action buttons or KEY for keywords.",
-    "HI": "Hi!  I'm SEJBOT and can help you plan for Summit 2016.  Start by typing MENU for action buttons or KEY for keywords.",
-    "HEY": "Hey!  I'm SEJBOT and can help you plan for Summit 2016.  Start by typing MENU for action buttons or KEY for keywords.",
+    "HELLO": "Hello!  I'm SEJBOT and can help you plan for Summit 2016.  Start by typing MENU for options or KEY for keywords.",
+    "HI": "Hi!  I'm SEJBOT and can help you plan for Summit 2016.  Start by typing MENU for options or KEY for keywords.",
+    "HEY": "Hey!  I'm SEJBOT and can help you plan for Summit 2016.  Start by typing MENU for options or KEY for keywords.",
     "WHAT CAN YOU DO": "I can help you with: %[Meeting Details](postback:MEETING_DETAILS) %[Getting There](postback:GETTING_THERE) %[Onsite Details](postback:ONSITE_DETAILS)",
     "?": "I can help you with: %[Meeting Details](postback:MEETING_DETAILS) %[Getting There](postback:GETTING_THERE) %[Onsite Details](postback:ONSITE_DETAILS)",
     "INFO": "I can help you with: %[Meeting Details](postback:MEETING_DETAILS) %[Getting There](postback:GETTING_THERE) %[Onsite Details](postback:ONSITE_DETAILS)",
@@ -25,7 +25,7 @@
     "PIER": "Find Parking Pay Stations, Restaurants, ATMs and fun activities. ![Navy Pier Visitor Map](https://raw.githubusercontent.com/kristicolleran/Kristitest/master/img/navypiervisitormap.jpg)",
     "TEST": "I'm sorry that is not something I know.  Type MENU or KEY for a list of things I can help you with.",
     "I LOVE YOU": "Awh, shucks! I love you too!",
-    "RESTART": "Hello!  I'm SEJBOT and can help you with the following for the Summit: \n%[Meeting Details](postback:MEETING_DETAILS) %[Getting There](postback:GETTING_THERE) %[Onsite Details](postback:ONSITE_DETAILS) %%[WiFi](postback:WIFI) \nAlso at any time you can use MENU to see your options",
+    "RESTART": "Hello!  I'm SEJBOT and can help you with the following for the Summit: \n%[Meeting Details](postback:MEETING_DETAILS) %[Getting There](postback:GETTING_THERE) %[Onsite Details](postback:ONSITE_DETAILS) %%[WiFi](postback:WIFI) \nAlso at any time you can use INFO to see your options",
     "CONNECT ME": "",
     "DISCONNECT": "SEJBot is back."
     
