@@ -50,7 +50,7 @@ module.exports = new Script({
                 }
 
                 if (!_.has(scriptRules, upperText)) {
-                    return bot.say(`I'm sorry I don't understand.  For things I can help you with, type INFO for menu or KEY for keywords.`).then(() => 'speak');
+                    return bot.say(`I'm sorry that is not something I know.  Type INFO or KEY for a list of things I can help you with.`).then(() => 'speak');
                     //return bot.say(bot.name).then(() => 'speak');
                 }
 
