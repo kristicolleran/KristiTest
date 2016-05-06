@@ -19,7 +19,7 @@ module.exports = new Script({
 
     start: {
         receive: (bot) => {
-            return bot.say('Hello!  I\'m SEJBOT and can help you plan for Summit 2016.  Start by typing INFO.')
+            return bot.say('Hello!  I\'m SEJBOT and can help you plan for Summit 2016.  Start by typing MENU for action buttons or KEY for keywords.')
                 .then(() => 'speak');
         }
     },
@@ -50,7 +50,7 @@ module.exports = new Script({
                 }
 
                 if (!_.has(scriptRules, upperText)) {
-                    return bot.say(`I'm sorry that is not something I know.  Type INFO or KEY for a list of things I can help you with.`).then(() => 'speak');
+                    return bot.say(`I'm sorry that is not something I know.  Type MENU or KEY for a list of things I can help you with.`).then(() => 'speak');
                     //return bot.say(bot.name).then(() => 'speak');
                 }
 
