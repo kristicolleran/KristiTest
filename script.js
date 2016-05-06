@@ -19,7 +19,7 @@ module.exports = new Script({
 
     start: {
         receive: (bot) => {
-            return bot.say('Hello!  I\'m SEJBOT and can help you plan for Summit 2016.  Start by typing MENU for action buttons or KEY for keywords.')
+            return bot.say('Hello!  I\'m SEJBOT and can help you plan for Summit 2016.  Start by typing MENU for options or KEY for keywords.')
                 .then(() => 'speak');
         }
     },
