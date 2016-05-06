@@ -50,7 +50,7 @@ module.exports = new Script({
                 }
 
                 if (!_.has(scriptRules, upperText)) {
-                    return bot.say(`So, I'm good at structured conversations but stickers, emoji and sentences still confuse me. I'm still learning - thanks for understanding!`).then(() => 'speak');
+                    return bot.say(`I'm sorry I don't understand.  For things I can help you with, type INFO for menu or KEY for keywords.`).then(() => 'speak');
                     //return bot.say(bot.name).then(() => 'speak');
                 }
 
