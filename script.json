@@ -1,7 +1,7 @@
 {
-    "HELLO": "Hello!  I'm SEJBOT and can help you plan for Summit 2016.  Start by typing INFO for menu or KEY for keywords.",
-    "HI": "Hi!  I'm SEJBOT and can help you plan for Summit 2016.  Start by typing INFO for menu or KEY for keywords.",
-    "HEY": "Hey!  I'm SEJBOT and can help you plan for Summit 2016.  Start by typing INFO for menu or KEY for keywords.",
+    "HELLO": "Hello!  I'm SEJBOT and can help you plan for Summit 2016.  Start by typing MENU for action buttons or KEY for keywords.",
+    "HI": "Hi!  I'm SEJBOT and can help you plan for Summit 2016.  Start by typing MENU for action buttons or KEY for keywords.",
+    "HEY": "Hey!  I'm SEJBOT and can help you plan for Summit 2016.  Start by typing MENU for action buttons or KEY for keywords.",
     "WHAT CAN YOU DO": "I can help you with: %[Meeting Details](postback:MEETING_DETAILS) %[Getting There](postback:GETTING_THERE) %[Onsite Details](postback:ONSITE_DETAILS)",
     "?": "I can help you with: %[Meeting Details](postback:MEETING_DETAILS) %[Getting There](postback:GETTING_THERE) %[Onsite Details](postback:ONSITE_DETAILS)",
     "INFO": "I can help you with: %[Meeting Details](postback:MEETING_DETAILS) %[Getting There](postback:GETTING_THERE) %[Onsite Details](postback:ONSITE_DETAILS)",
