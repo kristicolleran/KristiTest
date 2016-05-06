@@ -23,9 +23,9 @@
     "VENUE": "The Summit is being held in Festival Hall. ![Venue Map](https://raw.githubusercontent.com/kristicolleran/Kristitest/master/img/navypiereventmap.jpg)",
     "PIER MAP": "Find Parking Pay Stations, Restaurants, ATMs and fun activities: %[Navy Pier Visitor Map](https://app.box.com/s/pwcnxurzzqfrof3hfcvhwmx4ufx5k1gb)",
     "PIER": "Find Parking Pay Stations, Restaurants, ATMs and fun activities. ![Navy Pier Visitor Map](https://raw.githubusercontent.com/kristicolleran/Kristitest/master/img/navypiervisitormap.jpg)",
-    "TEST": "I'm sorry that is not something I know.  Type INFO or KEY for a list of things I can help you with.",
+    "TEST": "I'm sorry that is not something I know.  Type MENU or KEY for a list of things I can help you with.",
     "I LOVE YOU": "Awh, shucks! I love you too!",
-    "RESTART": "Hello!  I'm SEJBOT and can help you with the following for the Summit: \n%[Meeting Details](postback:MEETING_DETAILS) %[Getting There](postback:GETTING_THERE) %[Onsite Details](postback:ONSITE_DETAILS) %%[WiFi](postback:WIFI) \nAlso at any time you can use INFO to see your options",
+    "RESTART": "Hello!  I'm SEJBOT and can help you with the following for the Summit: \n%[Meeting Details](postback:MEETING_DETAILS) %[Getting There](postback:GETTING_THERE) %[Onsite Details](postback:ONSITE_DETAILS) %%[WiFi](postback:WIFI) \nAlso at any time you can use MENU to see your options",
     "CONNECT ME": "",
     "DISCONNECT": "SEJBot is back."
     
